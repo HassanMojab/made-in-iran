@@ -2,10 +2,11 @@ git:
   depth: false
 language: node_js
 node_js:
-  - "8"
-install:
-  - yarn
+  - "15.13.0"
+before_install:
+    - curl -fsSL https://deno.land/x/install/install.sh | sh
+    - ls -l $HOME/.deno
+    - export DENO_INSTALL="$HOME/.deno"
+    - export PATH="$DENO_INSTALL/bin:$PATH"
 script:
-  - yarn run build
-after_success:
-  - bash src/deploy.sh
+  - deno run --allow-env --allow-read --allow-net --allow-write --allow-run --no-check src/main.ts

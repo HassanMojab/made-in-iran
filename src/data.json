@@ -9,6 +9,12 @@
       ]
     },
     {
+      "category": "TypeScript",
+      "repos": [
+        "ganjoor/ganjoor-api"
+      ]
+    },
+    {
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
@@ -55,14 +61,16 @@
         "thedevs-network/kutt",
         "mahmoudmy/naaab.ir",
         "mostafa/react-native-fullscreen-video",
-        "msudgh/icu-loader",
         "ali-master/persian-tools",
         "thebrodmann/deox",
         "mort3za/ludo",
         "alipiry/tite-cli",
         "Sazito/phoenix",
         "soroushchehresa/unsplash-wallpapers",
-        "themzed/PersianJSONPlaceholder"
+        "themzed/PersianJSONPlaceholder",
+        "Kiarash-Z/react-modern-calendar-datepicker",
+        "soroushchehresa/cli-corona",
+        "hkhojasteh/Q-Smartwatch"
       ]
     },
     {
@@ -93,6 +101,7 @@
     {
       "category": "Python",
       "repos": [
+        "ParsianRoboticLab/Zero-Shot-Learning",
         "smoqadam/python-tips",
         "smoqadam/PyFladesk",
         "smoqadam/PyFladesk-rss-reader",
@@ -114,7 +123,9 @@
         "msudgh/syncshell",
         "msudgh/terminator-search",
         "univa64/kutt-cli",
-        "mhajiloo/persiantools"
+        "persepolisdm/persepolis",
+        "mhajiloo/persiantools",
+        "Navid2zp/hcloud-tg"
       ]
     },
     {
@@ -128,7 +139,8 @@
     {
       "category": "Kotlin",
       "repos": [
-        "TheSNAKY/WatchTower"
+        "TheSNAKY/WatchTower",
+        "yamin8000/PrettyPersianNumbers"
       ]
     },
     {
@@ -146,7 +158,6 @@
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir",
         "smmoosavi/php-gettext",
-        "forester-coder/Telegram",
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
         "NabiKAZ/namava-downloader",
@@ -184,7 +195,9 @@
     {
       "category": "Rust",
       "repos": [
-        "yaa110/rust-persian-calendar"
+        "ParsianRoboticLab/RAIC2019",
+        "yaa110/rust-persian-calendar",
+        "hosseind88/crypto-watcher"
       ]
     },
     {
@@ -195,7 +208,6 @@
         "imaNNeoFighT/StepBarView",
         "alirezaafkar/Toolbar",
         "imaNNeoFighT/ArcChartView",
-        "meNESS/EasyIntro",
         "navabi/JustifiedTextView",
         "soroushjavdan/ApplicationLocker",
         "soroushjavdan/Android-Mandrill-Interface",
@@ -215,7 +227,8 @@
         "aliab/circular-music-progressbar",
         "aliab/Two-Step-Picker-Dialog",
         "aliab/Persian-Date-Picker-Dialog",
-        "aliab/RTLMaterialSpinner"
+        "aliab/RTLMaterialSpinner",
+        "SirLordPouya/AndroidAppUpdater"
       ]
     },
     {
@@ -239,18 +252,30 @@
       "category": "C++",
       "anchor": "cpp",
       "repos": [
+        "mhmmdshirazi/QT-Mobile-Sensors",
         "mohebifar/openbabel-node",
         "keyvank/tracy",
         "amiremohamadi/DuckX",
         "novinsh/GamePlanner",
-        "alipiry/PlanEditor"
+        "alipiry/PlanEditor",
+        "Targoman/TargomanCommon",
+        "Targoman/TargomanDBM",
+        "Targoman/TargomanDBM",
+        "Targoman/E4MT",
+        "Targoman/QRESTServer",
+        "Targoman/TextProcessor",
+        "Targoman/QHttp",
+        "Targoman/TargomanNMT",
+        "Targoman/MTEval",
+        "Targoman/TargomanSMT"
       ]
     },
     {
       "category": "C",
       "repos": [
         "aminroosta/sqlite_modern_cpp",
-        "hamidreza-s/NanoChat"
+        "hamidreza-s/NanoChat",
+        "ziabary/ISO639"
       ]
     },
     {
@@ -261,7 +286,8 @@
         "0xaryan/KuttSharp",
         "0xaryan/EyesGuard",
         "ehsan-mohammadi/eRamz",
-        "kokabi1365/Vajehdan"
+        "kokabi1365/Vajehdan",
+        "Mds92/MD.PersianDateTime"
       ]
     },
     {
@@ -282,6 +308,12 @@
       "repos": [
         "imaNNeoFighT/fl_chart",
         "imaNNeoFighT/circular_bottom_navigation"
+      ]
+    },
+    {
+      "category": "Shell",
+      "repos": [
+        "soheilpro/zsh-vi-search"
       ]
     },
     {
@@ -310,14 +342,23 @@
       ]
     },
     {
+      "category": "Labview",
+      "repos": [
+        "mhmmdshirazi/LabviewImageProcessing"
+      ]
+    },
+    {
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
         "arastu/iran",
         "mostafa/gnulinux-book",
         "mostafa/iptables_book",
-        "HirbodBehnam/MTProtoProxyInstaller"
+        "HirbodBehnam/MTProtoProxyInstaller",
+        "softwaretalks/newsletter",
+        "amirbagh75/The-dark-sides-of-being-a-SysAdmin"
       ]
     }
-  ]
+  ],
+  "lastUpdate": "2021-06-08T06:43:42.042Z"
 }
